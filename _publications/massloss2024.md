@@ -1,13 +1,13 @@
 ---
 title: "Orbital Migration Through Atmospheric Mass Loss"
 collection: publications
-permalink: /publication/2024massloss
+permalink: 'https://arxiv.org/abs/2411.18960'
 excerpt: 'Work done at Harvey Mudd College with Prof. Dan Tamayo, focusing on exoplanet atmospheres and orbital dynamics.'
 date: 2024-11-4
 venue: 'The Astronomical Journal'
 # slidesurl: #none
-paperurl: 'https://arxiv.org/abs/2411.18960'
-link: 'https://arxiv.org/abs/2411.18960'
+# paperurl: 'https://arxiv.org/abs/2411.18960'
+link: /publication/2024massloss 
 # citation: 'Hanf, Benjamin . &quot;Orbital Migration Through Atmospheric Mass Loss&quot; <i>The Astronomical Journal</i>'
 ---
 
