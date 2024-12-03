@@ -15,7 +15,7 @@ I study astrophysics at [Pomona College](https://www.pomona.edu) in Claremont, C
   <img src='/images/gas_metallicity.jpg'>
 </div>
 
-I am most interested computational astrophysics. I have worked on [stellar stream finding in FIREbox](talks/2024-10-20) and [exoplanet orbital evolution](publication/2024massloss). 
+I am most interested computational astrophysics. I have worked on [stellar stream finding in FIREbox](talks/2024-10-20-pasadena) and [exoplanet orbital evolution](publication/2024massloss). 
 <div style="text-align: center;">
   <img src='/images/poster_stars_scatter_xy.jpg'>
   <img src='/images/massloss_close.gif'>
