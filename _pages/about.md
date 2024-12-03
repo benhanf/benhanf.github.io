@@ -15,17 +15,17 @@ I study astrophysics at Pomona College in Claremont, California.
 
 My main interests are computational and theoretical astrophysics.
 
-I have worked on exoplanet orbital evolution
-
-<img src='/images/massloss_close.gif'>
-
-and stellar stream finding in FIREbox.
+I have worked on stellar stream finding in FIREbox
 
 <img src='/images/poster_stars_scatter_xy.jpg'>
 
-I like to code and think about computers.
+and exoplanet orbital evolution.
 
-<img src='/images/eyes-trim.gif'>
+<img src='/images/massloss_close.gif'>
+
+<!-- I like to code and think about computers.
+
+<img src='/images/eyes-trim.gif'> -->
 
 
 <!-- A data-driven personal website
