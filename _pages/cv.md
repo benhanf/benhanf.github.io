@@ -22,13 +22,13 @@ Publications
 
 Research
 ======
-* Pomona College Physics Dept, 2024
+* **Pomona College Physics Dept**, 2024
   * Analyzed cosmological simulations, used machine learning algorithms to identify and investigate stellar stream properties around low-mass galaxies in FIREbox.
 
-* Harvey Mudd College Physics Dept, 2023
+* **Harvey Mudd College Physics Dept**, 2023
   * Modeled exoplanet migration driven by atmospheric loss, then verified our results against simulations in python.  Consulted experts and published a paper summarizing our findings. 
 
-* Portland State University Physics Dept, 2022  
+* **Portland State University Physics Dept**, 2022  
   * Used Google’s MediaPipe AI to develop accessible real-time skeleton tracking and center-of-mass calculation for physics pedagogy. 
   
 Experience

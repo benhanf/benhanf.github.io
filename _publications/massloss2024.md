@@ -1,7 +1,7 @@
 ---
 title: "Orbital Migration Through Atmospheric Mass Loss"
 collection: publications
-permalink: /publication/2024massloss
+permalink: https://arxiv.org/abs/2411.18960 #/publication/2024massloss
 excerpt: 'Work done at Harvey Mudd College under Dan Tamayo, focusing on exoplanet atmospheres and orbital dynamics.'
 date: 2024-11-4
 venue: 'The Astronomical Journal'
