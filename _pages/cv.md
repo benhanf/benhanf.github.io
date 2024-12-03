@@ -11,39 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.A. in Physics, Pomona College, 2025 (Expected)
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* B.A. in Physics, Pomona College, 2025
+  * 3.9 GPA, physics major, math minor
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Research
+======
+* Pomona College Physics Dept, 2024
+  * Analyzed cosmological simulations, used machine learning algorithms to identify and investigate stellar stream properties around low-mass galaxies in FIREbox.
+
+* Harvey Mudd College Physics Dept, 2023
+  * Modeled exoplanet migration driven by atmospheric loss, then verified our results against simulations in python.  Consulted experts and published a paper summarizing our findings. 
+
+* Portland State University Physics Dept, 2022  
+  * Used Google’s MediaPipe AI to develop accessible real-time skeleton tracking and center-of-mass calculation for physics pedagogy. 
+  
+Experience
+======
+* Teaching Assistant, Introductory Astronomy, 2024
+* Teaching Assistant, Electronics Lab, 2024
   
 Talks
 ======
@@ -51,12 +42,17 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+Programming
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Python
+* JavaScript
+* Kotlin
+* GLSL
+* IDL
+* Unix
+
+Languages
 ======
-* Currently signed in to 43 different slack teams
+* English (Native)
+* German (B1)
+* Spanish (A2)
