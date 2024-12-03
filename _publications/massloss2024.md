@@ -7,7 +7,7 @@ date: 2024-11-4
 venue: 'The Astronomical Journal'
 # slidesurl: #none
 paperurl: 'https://arxiv.org/abs/2411.18960'
-# link: 'https://arxiv.org/abs/2411.18960'
+link: 'https://arxiv.org/abs/2411.18960'
 # citation: 'Hanf, Benjamin . &quot;Orbital Migration Through Atmospheric Mass Loss&quot; <i>The Astronomical Journal</i>'
 ---
 
