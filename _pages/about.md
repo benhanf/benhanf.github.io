@@ -16,15 +16,12 @@ I study astrophysics at [Pomona College](https://www.pomona.edu). I am most inte
 </div>
 
 I have worked on [stellar stream finding in FIREbox](talks/2024-10-20-pasadena) and [exoplanet orbital evolution](publication/2024massloss). 
-<div style="text-align: center;">
+<div style="text-align: center; width = ">
   <img src='/images/poster_stars_scatter_xy.jpg'>
   <img src='/images/massloss_close.gif'>
 </div>
  <!-- parallel processing, optimization, and machine learning for  scientific computation. -->
 
-<!-- I like to code and think about computers.
-
-<img src='/images/eyes-trim.gif'> -->
 
 
 <!-- A data-driven personal website
