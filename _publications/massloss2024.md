@@ -3,12 +3,12 @@ title: "Orbital Migration Through Atmospheric Mass Loss"
 collection: publications
 permalink: /publication/2024massloss 
 # excerpt: 'Work done at Harvey Mudd College with Prof. Dan Tamayo, focusing on exoplanet atmospheres and orbital dynamics.'
-date: 2024-11-4
+date: 2024-11-12
 venue: 'The Astronomical Journal'
 # slidesurl: #none
-paperurl: 'https://arxiv.org/abs/2411.18960'
+paperurl: 'https://iopscience.iop.org/article/10.3847/1538-3881/ad944f'
 # link: 'https://arxiv.org/abs/2411.18960'
-citation: 'Benjamin Hanf, W. Kincaid, H. Schlichting, L. Cappiello, D. Tamayo. &quot;Orbital Migration Through Atmospheric Mass Loss&quot; <i>The Astronomical Journal</i>'
+citation: 'Benjamin Hanf et al 2025 AJ 169 19'
 ---
 
 <!-- The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font. -->
