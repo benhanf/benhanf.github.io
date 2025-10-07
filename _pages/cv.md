@@ -15,7 +15,7 @@ Education
 
 * B.A. Physics, Pomona College, 2025
   * 3.9 GPA, physics major, math minor
-  * Thesis: [Stellar Streams in FIREbox](benhanf.github.io/files/Hanf_Thesis_Upload.pdf)
+  * Thesis: [Stellar Streams in FIREbox](https://benhanf.github.io/files/Hanf_Thesis_Upload.pdf)
 
 Publications
 ======
