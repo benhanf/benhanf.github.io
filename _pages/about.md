@@ -16,7 +16,7 @@ Hello, my name is Benjamin Hanf. I study astrophysics at the [University of Muni
 </div>
 
 <div style="text-align: center; width = ">
-  <!-- <img src='/images/poster_stars_scatter_xy.jpg'> -->
+  <img src='/images/poster_stars_scatter_xy.jpg'>
   <!-- <img src='/images/massloss_close.gif'> -->
 </div>
  <!-- parallel processing, optimization, and machine learning for  scientific computation. -->
