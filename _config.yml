@@ -25,8 +25,8 @@ author:
   name             : "Benjamin Hanf"
   pronouns         : #"he / him"  
   bio              : "Student Researcher"
-  location         : "Claremont, CA"
-  employer         : "Pomona College"
+  location         : "Munich"
+  employer         : "Ludwig Maximilian University of Munich"
   uri              : # URL
   email            : "benhanf1@gmail.com" 
 
@@ -34,7 +34,7 @@ author:
   arxiv            : "https://arxiv.org/search/astro-ph?searchtype=author&query=Hanf,+B"
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0008-5746-4179"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
