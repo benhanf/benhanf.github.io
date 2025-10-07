@@ -11,8 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.A. in Physics, Pomona College, 2025
+* MSc Astrophysics, University of Munich, 2027 (expected)
+
+* B.A. Physics, Pomona College, 2025
   * 3.9 GPA, physics major, math minor
+  * Thesis: [Stellar Streams in FIREbox](files/Hanf_Thesis_Upload.pdf)
 
 Publications
 ======
@@ -54,5 +57,5 @@ Programming
 Languages
 ======
 * English (Native)
-* German (B1)
+* German (B2)
 * Spanish (A2)
