@@ -1,10 +1,10 @@
 ---
-title: "Orbital Migration Through Atmospheric Mass Loss"
+title: "Searching for Stellar Streams in FIREbox"
 collection: talks
-type: "Poster Presentation"
-permalink: /talks/2024-06-111-anchorage
+type: "Research Talk"
+permalink: /talks/2025-06-111-anchorage
 venue: "American Astronomical Society Meeting"
-date: 2024-06-11
+date: 2025-06-11
 location: "Anchorage, AK"
 ---
 <img src='/images/2025_06_11_anchorage.jpg'>
