@@ -48,6 +48,7 @@ Talks
 Programming
 ======
 * Python
+* C++
 * JavaScript
 * Kotlin
 * GLSL
@@ -58,4 +59,4 @@ Languages
 ======
 * English (Native)
 * German (B2)
-* Spanish (A2)
+<!-- * Spanish (A2) -->
