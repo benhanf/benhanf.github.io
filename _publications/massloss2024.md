@@ -15,8 +15,11 @@ citation: 'Benjamin Hanf et al 2025 AJ 169 19'
 
 Work done at Harvey Mudd College with Prof. Dan Tamayo, focusing on exoplanet atmospheres and orbital dynamics.
 
-Atmospheric mass loss is thought to have strongly shaped the sample of close-in exoplanets. These atmospheres should be lost isotropically, leading to no net migration on the planetary orbit. However, strong stellar winds can funnel the escaping atmosphere into a tail trailing the planet. We derive a simple kinematic model of the gravitational interaction between the planet and this anisotropic wind, and derive expressions for the expected migration of the planet. Over the expected range of parameters, we find typical migrations of a few tenths to a few percent inward. We argue that this modest migration may be observable for planet pairs near mean motion resonances, which would provide an independent observational constraint on atmospheric mass loss models.
+<div style="text-align: center;">
+  <span class="__dimensions_badge_embed__" data-doi="10.3847/1538-3881/ad944f"></span>
+</div>
+<script async src="https://badge.dimensions.ai/static/ai/badge.js" charset="utf-8"></script>
 
-<span class="__dimensions_badge_embed__" data-doi="10.3847/1538-3881/ad944f"></span><script async src="https://badge.dimensions.ai/static/ai/badge.js" charset="utf-8"></script>
+Atmospheric mass loss is thought to have strongly shaped the sample of close-in exoplanets. These atmospheres should be lost isotropically, leading to no net migration on the planetary orbit. However, strong stellar winds can funnel the escaping atmosphere into a tail trailing the planet. We derive a simple kinematic model of the gravitational interaction between the planet and this anisotropic wind, and derive expressions for the expected migration of the planet. Over the expected range of parameters, we find typical migrations of a few tenths to a few percent inward. We argue that this modest migration may be observable for planet pairs near mean motion resonances, which would provide an independent observational constraint on atmospheric mass loss models.
 
 <img src='/images/massloss_f1.jpeg'>
