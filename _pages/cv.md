@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* MSc Astrophysics, University of Munich, 2027 (expected)
+<!-- * MSc Astrophysics, University of Munich, 2027 (expected) -->
 
 * B.A. Physics, Pomona College, 2025
   * 3.9 GPA, physics major, math minor
